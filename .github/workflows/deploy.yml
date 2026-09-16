@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: "app-fedid-uefrc3245wt4k"
+  AZURE_WEBAPP_NAME: "app-fedid-eiqehg3fqjmlq"
 
 jobs:
   deploy:
